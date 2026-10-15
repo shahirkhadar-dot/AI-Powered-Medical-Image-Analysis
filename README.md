@@ -45,24 +45,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Expected outputs
-- `data/synthetic_samples/` — generated toy images
-- `images/sample_preprocessed_images.png`
-- `images/confusion_matrix.png`
-- `images/class_distribution.png`
-- `outputs/evaluation_report.json`
-- `outputs/classification_report.txt`
-- `outputs/confusion_matrix.csv`
-- `models/synthetic_pattern_classifier.pkl`
-
-Scores apply only to the synthetic toy dataset and are not medical-image performance claims.
-
-## GitHub suggestion
-Repository name: `ai-medical-image-analysis-demo`
-
-Description: `Beginner-friendly Python demo of grayscale image preprocessing, feature extraction, classification, evaluation, and visualization using synthetic patterns.`
-
-Topics: `python`, `medical-imaging`, `machine-learning`, `image-processing`, `scikit-learn`, `computer-vision`, `education`
-
-## Future learning
-For an advanced educational version, explore reputable public datasets and follow their license, privacy rules, and intended use. Do not publish patient-identifiable images. Using real clinical data requires careful validation and expert oversight; it does not automatically make a model a diagnostic tool.
+<img width="720" height="1570" alt="WhatsApp Image 2026-10-15 at 19 38 49" src="https://github.com/user-attachments/assets/2c15eab9-b3af-4d4c-898e-fb94f0df4f38" />
